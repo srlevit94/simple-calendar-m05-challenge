@@ -32,7 +32,8 @@ WHEN I refresh the page
 THEN the saved events persist 
 
 ## Relevant Links:
-Deployed Application: https://srlevit94.github.io/simple-calendar-m05-challenge/
+Deployed Application: https://srlevit94.github.io/simple-calendar-m05-challenge/  
+
 User GitHub Repository: https://github.com/srlevit94/simple-calendar-m05-challenge
 
 ## Screenshot:
